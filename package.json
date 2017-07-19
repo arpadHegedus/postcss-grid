@@ -1,5 +1,5 @@
 {
-  "name": "postcss-grid",
+  "name": "postcss-gridder",
   "description": "A PostCSS plugin to add dynamic grid layouts with a choice of using flexbox, float or inline-block elements",
   "version": "1.0.0",
   "author": {

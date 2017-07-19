@@ -1,5 +1,5 @@
 /**
- * POSTCSS GRID
+ * POSTCSS GRIDDER
  * A PostCSS plugin to add dynamic grid layouts with a choice of using flexbox, float or inline-block elements
  * @version 1.0.0
  * @author Arpad Hegedus <hegedus.arpad@gmail.com>

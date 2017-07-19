@@ -7,7 +7,7 @@ A [PostCSS] plugin to add dynamic grid layouts with a choice of using flexbox, f
 ## Installation
 
 ```js
-npm install postcss-grid
+npm install postcss-gridder
 ```
 
 ## Example
