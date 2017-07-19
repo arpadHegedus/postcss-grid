@@ -8,7 +8,7 @@
 let postcss = require('postcss'),
     util = require('postcss-plugin-utilities');
 
-module.exports = postcss.plugin('postcss-grid', (opt = {}) => { 
+module.exports = postcss.plugin('postcss-gridder', (opt = {}) => { 
     let getSibling = (prop, decl) => { 
         let r = null;
         decl.parent.walkDecls(prop, d => {
